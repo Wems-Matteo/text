@@ -97,7 +97,7 @@ import * as THREE from 'https://cdn.skypack.dev/three'
 
                 requestAnimationFrame(a)
 
-                t.position.y += .125
+                t.position.y += .1
 
             }; a()
 
